@@ -3,7 +3,7 @@
 ## Student Details
 
 * Name: Harini M
-* Course: MCA (Generative AI)
+* Intern :Ediglobe 
 
 ## Project Objective
 
